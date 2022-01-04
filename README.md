@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajesh00011
-- 👀 I’m interested in nothing.
+- 👀 I’m interested in void.
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on anyting that is Devops related.
 
